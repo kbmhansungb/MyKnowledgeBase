@@ -1,7 +1,11 @@
 # TODO
-* [ ] 레포지토리 초기 설정
-* [ ] 폴더 추가시
-* [ ] 페이지 링크 추가시
+* [ ] 2024 09 2주차
+    * [ ] 레포지토리 초기 설정
+    * [ ] 폴더 추가시
+    * [ ] 페이지 링크 추가시
+    * [ ] MapAPI 정리
+    * [ ] OpenXRPassthrough 정리
+
 
 # MyKnowledgeBase
 Knowledge Base를 관리하기 위한 프로젝트 입니다. 이 프로젝트에 Knowledge를 정리하여 관리합니다.
