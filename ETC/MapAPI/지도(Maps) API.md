@@ -4,5 +4,6 @@
 
 반대로 Reverse Geocoding은 위도와 경도 정보를 입력하여 그 좌표에 해당하는 실제 주소나 지명을 찾는 것을 말합니다.
 
-![[Geocoding Sample 01.png]]
+![iamges](/ETC/MapAPI/GeocodingSample01.png)
+
 ### Navigation
