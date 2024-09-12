@@ -19,18 +19,9 @@
 # Representative API
 
 주요 Map API는 다음과 같습니다:
-* [Naver Map API](https://navermaps.github.io/maps.js.ncp/docs/tutorial-digest.example.html)
+* [NAVER Maps Javascript API v3](https://navermaps.github.io/maps.js.ncp/) 기술문서와 GitHub예제 코드를 제공하여 이용하기 쉽게 되어 있습니다.
+    * [기술 문서](https://navermaps.github.io/maps.js.ncp/docs/)
+    * [Github 예제](https://navermaps.github.io/maps.js.ncp/docs/)
 * [Kakao Map API](https://apis.map.kakao.com/web/guide/)
 * [TMap API](https://openapi.sk.com/products/detail?svcSeq=4&menuSeq=1)
 * [Google Maps API](https://developers.google.com/maps/apis-by-platform?hl=ko)
-
-<br>
-
-## Naver API
-[NAVER Maps Javascript API v3](https://navermaps.github.io/maps.js.ncp/) 기술문서와 GitHub예제 코드를 제공하여 이용하기 쉽게 되어 있습니다.
-
-* [기술 문서](https://navermaps.github.io/maps.js.ncp/docs/)
-* [Github 예제](https://navermaps.github.io/maps.js.ncp/docs/)
-
-<br>
-
