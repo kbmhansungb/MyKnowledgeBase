@@ -1,7 +1,7 @@
 # Unity에서 Naver Map API를 Web View로 보기
 지도나 네비게이션등의 기능을 사용하기 위해 [Map API](../MapAPI/MapAPI.md)를 [WebView](../VuplexWebView/VuplexWebView.md)을 이용하여 Unity에 통합하는 예제 입니다.
 
-## 01. HTML 구성
+## HTML 구성
 지도를 보여줄 페이지를 구성합니다. 웹 페이지를 유니티에 통합하기 위해 지도가 전체화면으로 보이도록 합니다.
 
 참고자료:
@@ -53,7 +53,7 @@ SampleNaverMap.html:
 </html>
 ```
 
-## 02. WebView로 Unity에서 HTML 로드
+## WebView로 Unity에서 HTML 로드
 프로젝트에 `Assets/StreamingAssets` 디렉토리를 만들고, 작성한 `SampleNaverMap.html`을 둡니다.
 
 WebView에 `streaming-assets://SampleNaverMap.html`을 url로 설정하여 불러올 수 있습니다.
@@ -64,7 +64,7 @@ WebView에 `streaming-assets://SampleNaverMap.html`을 url로 설정하여 불�
 * [Vuplex: How to load a local HTML or PDF file?](https://support.vuplex.com/articles/how-to-load-local-files)
 
 
-## 03. Web - Unity 연동
+## Web - Unity 연동
 Web과 이벤트 및 데이터를 보내고 받을 수 있는 구조를 만듭니다.
 
 * CSharp에서 WebViewPrefab.WebView.PostMessage로 메시지를 보내고, WebViewPrefab.WebView.MessageEmitted에 메시지 콜백을 등록합니다.
