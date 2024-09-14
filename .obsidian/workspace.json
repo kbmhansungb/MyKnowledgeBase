@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homography/Homography.md",
+                "file": "VuplexWebView/VuplexWebView.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,21 +32,21 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Homography/Homography.md",
+                "file": "VuplexWebView/VuplexWebView.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -55,7 +55,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000018,
+                  "scale": 1.000000000000003,
                   "close": false
                 }
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homography/Homography.md",
+                "file": "VuplexWebView/VuplexWebView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homography/Homography.md",
+                "file": "VuplexWebView/VuplexWebView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homography/Homography.md"
+                "file": "VuplexWebView/VuplexWebView.md"
               }
             }
           }
@@ -189,15 +189,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c22b8d269ab2c52",
+  "active": "0d21070498f98804",
   "lastOpenFiles": [
+    "InUnityMapAPIWithVuplexWebView/InUnityMapAPIWithVuplexWebView.md",
+    "InUnityImageTrackingWithOpenCVForUnity/InUnityImageTrackingWithOpenCVForUnity.md",
+    "VuplexWebView/VuplexWebView.md",
+    "PerspectiveProjection/PerspectiveProjection.md",
+    "OpenXRPassthrough/OpenXRPassthrough.md",
+    "MapAPI/MapAPI.md",
+    "Homography/Homography.md",
     "MapAPI/PathFindSample01.png",
     "MapAPI/NavigationSample01.png",
-    "MapAPI/MapAPI.md",
-    "PerspectiveProjection/PerspectiveProjection.md",
     "README.md",
     "Untitled.canvas",
-    "OpenXRPassthrough/OpenXRPassthrough.md",
     "Graphics/OpenXRPassThrough/OpenXRPassthrough.md",
     "Graphics/OpenXRPassthrough/PassThrough.shader",
     "Graphics/OpenXRPassthrough/OpenXRPassthrough.md",

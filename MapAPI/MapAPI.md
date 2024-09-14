@@ -1,3 +1,7 @@
+---
+tags:
+  - Map
+---
 # Main Feature
 ## Geocoding (지오코딩)
 주소나 지명과 같은 고유 명칭(텍스트 데이터)를 위도(latitude)와 경도(longitude)와 같은 좌표 데이터로 변환하는 과정을 말합니다.

@@ -1,3 +1,9 @@
+---
+tags:
+  - Graphics
+  - ComputerVision
+  - Math
+---
 # 원근 투영(Perspective Projection)
 원근 투영(Perspective Projection)은 3D 좌표계에서 정의된 물체를 2D 평면(주로 화면)으로 변환하는 방식입니다. 이 과정에서, 실제 거리에 따라 물체의 크기가 변하는 현상이 자연스럽게 반영됩니다. 즉, 가까이 있는 물체는 크게, 멀리 있는 물체는 작게 보이게 됩니다.
 

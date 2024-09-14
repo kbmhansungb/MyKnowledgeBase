@@ -1,3 +1,11 @@
+---
+tags:
+  - Unity
+  - ImageTracking
+  - ComputerVision
+  - OpenCV
+  - OpenCVForUnity
+---
 # Unity에서 OpenCV For Unity를 이용하여 이미지 트래킹
 앱 설치 없이 웹으로 접속해 이미지 트래킹을 제공합니다.
 

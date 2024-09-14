@@ -1,3 +1,9 @@
+---
+tags:
+  - Unity
+  - Map
+  - VuplexWebView
+---
 # Unity에서 Naver Map API를 Web View로 보기
 지도나 네비게이션등의 기능을 사용하기 위해 [Map API](../MapAPI/MapAPI.md)를 [WebView](../VuplexWebView/VuplexWebView.md)을 이용하여 Unity에 통합하는 예제 입니다.
 
