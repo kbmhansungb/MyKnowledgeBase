@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7606086b179a8b07",
+        "id": "78e2b79a47eb82ef",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0bbb68bf0def6b",
+            "id": "ac88d02cfafd2b3b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ROS/ROS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ROS/ROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ROS/ROS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ROS/ROS.md"
+              }
             }
           }
         ]
@@ -138,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa0bbb68bf0def6b",
+  "active": "ac88d02cfafd2b3b",
   "lastOpenFiles": [
+    "LoRa/LoRa.md",
+    "PLC/PLC.md",
     "GPS/GPS.md",
     "ROS/ROS.md",
-    "PLC/PLC.md",
-    "LoRa/LoRa.md",
     "README.md",
     "VuplexWebView/VuplexWebView.md",
     "InUnityMapAPIWithVuplexWebView/InUnityMapAPIWithVuplexWebView.md",

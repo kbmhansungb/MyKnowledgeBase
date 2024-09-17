@@ -1,6 +1,7 @@
 ---
 tags:
   - Communication
+  - EmbeddedSystem
 ---
 ### LoRa 통신이란?
 
