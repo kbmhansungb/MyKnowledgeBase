@@ -3,7 +3,6 @@
     * [ ] 레포지토리 초기 설정
     * [ ] 폴더 추가시
     * [ ] 페이지 링크 추가시
-    * [ ] MapAPI 정리
     * [ ] OpenXRPassthrough 정리
     * [ ] ImageTracking 공부한 내용 정리
 

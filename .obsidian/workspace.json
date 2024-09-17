@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VuplexWebView/VuplexWebView.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "93e63303f2566672"
-          }
-        ]
-      },
-      {
-        "id": "adfbb98e1ed38e61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c22b8d269ab2c52",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "VuplexWebView/VuplexWebView.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.000000000000003,
-                  "close": false
-                }
-              }
-            },
-            "group": "93e63303f2566672"
+            }
           }
         ]
       }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VuplexWebView/VuplexWebView.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VuplexWebView/VuplexWebView.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VuplexWebView/VuplexWebView.md"
+                "file": "README.md"
               }
             }
           }
@@ -189,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d21070498f98804",
+  "active": "aa0bbb68bf0def6b",
   "lastOpenFiles": [
+    "VuplexWebView/VuplexWebView.md",
     "InUnityMapAPIWithVuplexWebView/InUnityMapAPIWithVuplexWebView.md",
     "InUnityImageTrackingWithOpenCVForUnity/InUnityImageTrackingWithOpenCVForUnity.md",
-    "VuplexWebView/VuplexWebView.md",
     "PerspectiveProjection/PerspectiveProjection.md",
     "OpenXRPassthrough/OpenXRPassthrough.md",
     "MapAPI/MapAPI.md",
