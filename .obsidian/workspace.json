@@ -140,6 +140,10 @@
   },
   "active": "aa0bbb68bf0def6b",
   "lastOpenFiles": [
+    "GPS/GPS.md",
+    "ROS/ROS.md",
+    "PLC/PLC.md",
+    "LoRa/LoRa.md",
     "README.md",
     "VuplexWebView/VuplexWebView.md",
     "InUnityMapAPIWithVuplexWebView/InUnityMapAPIWithVuplexWebView.md",
