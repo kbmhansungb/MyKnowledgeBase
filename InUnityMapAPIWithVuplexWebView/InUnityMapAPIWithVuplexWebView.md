@@ -5,7 +5,17 @@ tags:
   - VuplexWebView
 ---
 # Unity에서 Naver Map API를 Web View로 보기
-지도나 네비게이션등의 기능을 사용하기 위해 [Map API](../MapAPI/MapAPI.md)를 [WebView](../VuplexWebView/VuplexWebView.md)을 이용하여 Unity에 통합하는 예제 입니다.
+지도나 네비게이션 등의 기능을 Unity에서 구현하기 위해 [Map API](../MapAPI/MapAPI.md)를 [Vuplex WebView](../VuplexWebView/VuplexWebView.md)를 사용하여 통합하는 예제입니다. 이 예제에서는 Naver Map API를 활용하여 웹 페이지를 구성하고, Vuplex WebView를 통해 Unity에서 해당 페이지를 로드하고 상호작용하는 방법을 다룹니다. 이를 통해 Unity 애플리케이션 내에서 지도 기능을 손쉽게 구현할 수 있습니다.
+
+```mermaid
+sequenceDiagram
+    participant CSharp as GPSMapController
+    participant JS as JavaScript in WebView
+    CSharp ->> JS: PostMessage(message)
+    JS ->> JS: receiveMessageFromCSharpCallback(event)
+    JS ->> JS: Parse message
+    JS ->> JS: Execute action based on message type
+```
 
 ## HTML 구성
 지도를 보여줄 페이지를 구성합니다. 웹 페이지를 유니티에 통합하기 위해 지도가 전체화면으로 보이도록 합니다.
@@ -116,6 +126,18 @@ GPSSampleScene.cs:
         private void ReceiveWebViewMessageCallback(object sender, EventArgs<string> eventArgs)
         {
             Debug.Log("Rseceived message: " + eventArgs.Value);
+
+            //// 여기서 메시지를 파싱하여 처리합니다.
+            // var json = JSON.parse(event.data);
+            // if (json.type == 'setCenter') {
+            //     setCenter(json.latitude, json.longitude);
+            // }
+            // else if (json.type == 'addMarker') {
+            //     addMarker(json);
+            // }
+            // else if (json.type == 'removeMarker') {
+            //     removeMarker(json.name);
+            // }
         }   
 
         /// <summary>

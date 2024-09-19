@@ -11,12 +11,8 @@
             "id": "ac88d02cfafd2b3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROS/ROS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS/ROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS/ROS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ROS/ROS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,10 @@
   },
   "active": "ac88d02cfafd2b3b",
   "lastOpenFiles": [
+    "ROS/ROS.md",
     "LoRa/LoRa.md",
     "PLC/PLC.md",
     "GPS/GPS.md",
-    "ROS/ROS.md",
     "README.md",
     "VuplexWebView/VuplexWebView.md",
     "InUnityMapAPIWithVuplexWebView/InUnityMapAPIWithVuplexWebView.md",
