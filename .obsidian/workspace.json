@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Communication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,8 +141,9 @@
   },
   "active": "ac88d02cfafd2b3b",
   "lastOpenFiles": [
-    "ROS/ROS.md",
     "LoRa/LoRa.md",
+    "OpenXRPassthrough/OpenXRPassthrough.md",
+    "ROS/ROS.md",
     "PLC/PLC.md",
     "GPS/GPS.md",
     "README.md",
@@ -149,7 +151,6 @@
     "InUnityMapAPIWithVuplexWebView/InUnityMapAPIWithVuplexWebView.md",
     "InUnityImageTrackingWithOpenCVForUnity/InUnityImageTrackingWithOpenCVForUnity.md",
     "PerspectiveProjection/PerspectiveProjection.md",
-    "OpenXRPassthrough/OpenXRPassthrough.md",
     "MapAPI/MapAPI.md",
     "Homography/Homography.md",
     "MapAPI/PathFindSample01.png",
